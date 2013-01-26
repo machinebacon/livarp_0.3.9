@@ -1,4 +1,0 @@
-$TERM="urxvtc"
-$FILER="rox-filer"
-$BROWSER="luakit"
-$EDITOR="geany"
